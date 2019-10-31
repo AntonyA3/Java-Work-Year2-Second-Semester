@@ -1,0 +1,4 @@
+This is a random string
+used for the purpose of an example
+to show show data can easily be written to a file in byte form
+by using the Files utility class.
